@@ -56,4 +56,4 @@ O terminal mostrará o progresso linha a linha. Arquivos com datas inválidas se
 
 ## 📄 Licença
 
-[MIT](https://choosealicense.com/licenses/mit/)
+Este projeto está licenciado sob a licença **MIT**. Consulte o arquivo LICENSE para mais detalhes.
