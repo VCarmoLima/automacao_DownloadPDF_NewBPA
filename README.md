@@ -19,7 +19,7 @@ Este projeto é um script de automação em Python desenvolvido para ler uma pla
 
 1. Clone o repositório:
    ```bash
-   git clone [https://github.com/VCarmoLima/automacao_DownloadPDFs_NewBPA.git]
+   git clone [https://github.com/VCarmoLima/invoice-download-automation.git]
    cd invoice-downloader
    
 2. Instale as dependências necessárias:
